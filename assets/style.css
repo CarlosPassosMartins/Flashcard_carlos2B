@@ -52,6 +52,11 @@ body{
     font-weight: 700;
 }
 
+.cartao_conteudo_pergunta,
+.cartao_conteudo_resposta {
+    backface-visibility: hidden;
+}
+
 footer{
     background-color: black;
     color: white;
