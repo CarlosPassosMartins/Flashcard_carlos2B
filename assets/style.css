@@ -46,6 +46,12 @@ body{
     backface-visibility: hidden;
 }
 
+.cartao_conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
 .cartao_conteudo_pergunta p{
     color: var(--text-color);
     font-weight: 500;
@@ -59,6 +65,9 @@ body{
 .cartao_conteudo_pergunta,
 .cartao_conteudo_resposta {
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 .cartao_conteudo_resposta {
