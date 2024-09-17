@@ -57,6 +57,10 @@ body{
     backface-visibility: hidden;
 }
 
+.cartao_conteudo_resposta {
+    transform: rotateY(180deg);
+}
+
 footer{
     background-color: black;
     color: white;
