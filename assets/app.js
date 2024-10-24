@@ -5,12 +5,12 @@ function criaCartao (categoria, pergunta, resposta) {
 
     cartao.innerHTML = `
         <div class="cartao_conteudo">
-                            <h3> Programação </h3>
+                            <h3> ${categoria} </h3>
                                 <div class="cartao_conteudo_pergunta">
-                                        <p>O que é CSS?</p>
+                                        <p>${pergunta}</p>
                                     </div>                        
                                 <div class="cartao_conteudo_resposta">
-                                        <p>O CSS é uma linguagem de estilização.</p>
+                                        <p>${resposta}</p>
                                     </div>
                                 </div>
     `
