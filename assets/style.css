@@ -91,6 +91,7 @@ footer {
 }
 
 footer p {
+    justify-items: center;
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
