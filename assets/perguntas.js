@@ -16,3 +16,10 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'Portugues',
+    'oq que é ironia',
+    'é quando se diz o contrário do que se quer dar a entender '
+
+)
