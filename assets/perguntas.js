@@ -23,3 +23,10 @@ criaCartao(
     'é quando se diz o contrário do que se quer dar a entender '
 
 )
+
+criaCartao(
+    'portugues',
+    'oq que é satira',
+    'todos en su cct off uso grocery'
+
+)
